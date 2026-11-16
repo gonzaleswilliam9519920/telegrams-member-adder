@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Telegram Member Adder](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/telegrams-member-adder)
+[![Download Telegram Member Adder](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/RB3apmUYKazcEvu3z)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download Telegram Member Adder](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/telegrams-member-adder)
+[![Download Telegram Member Adder](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/RB3apmUYKazcEvu3z)
 
 </div>
 
@@ -172,7 +172,7 @@ Grow your Telegram community with ease for free. **Telegram Member Adder – Bul
 
 <div align="center">
 
-[![Download Telegram Member Adder](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/telegrams-member-adder)
+[![Download Telegram Member Adder](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/RB3apmUYKazcEvu3z)
 
 **Version 3.5.0** — Free Telegram member management tool. May 2026 update. Zero cost. No payment.
 
